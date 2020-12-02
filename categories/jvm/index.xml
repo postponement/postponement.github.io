@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JVM on YC&#39;s Blog</title>
+    <link>http://postponement.github.io/categories/jvm/</link>
+    <description>Recent content in JVM on YC&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 04 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://postponement.github.io/categories/jvm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An Example Post4</title>
+      <link>http://postponement.github.io/post/four/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://postponement.github.io/post/four/</guid>
+      <description>&lt;p&gt;关于Istio的更多内容请参考&lt;a href=&#34;http://istio.doczh.cn/&#34;&gt;istio中文文档&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;原文参见&lt;a href=&#34;https://istio.io/docs/tasks/traffic-management/traffic-shifting.html&#34;&gt;Traffic Shifting&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;本任务将演示如何将应用流量逐渐从旧版本的服务迁移到新版本。通过Istio，可以使用一系列不同权重的规则（10%，20%，··· 100%）将流量平缓地从旧版本服务迁移到新版本服务。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

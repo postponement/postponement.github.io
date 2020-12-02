@@ -463,7 +463,7 @@
             '    <ul id="comments" class="comment-list"></ul>\n'+
             '    <a href="javascript:;" class="comment-loadmore">加载更多</a>\n'+
             '</div>\n'+
-            '<div class="comment" id="disqus_thread"></div>';
+            // '<div class="comment" id="disqus_thread"></div>';
 
         _.user = new User(_.dom,_.opts);
         _.box = _.dom.querySelector('.comment-box').outerHTML.replace(/<label class="comment-actions-label exit"(.|\n)*<\/label>\n/,'').replace('comment-form-wrapper','comment-form-wrapper editing').replace(/加入讨论……/,'');
