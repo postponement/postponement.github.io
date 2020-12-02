@@ -36,5 +36,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>An Example Post55</title>
+      <link>http://postponement.github.io/post/five/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://postponement.github.io/post/five/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Example Post66</title>
+      <link>http://postponement.github.io/post/six/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://postponement.github.io/post/six/</guid>
+      <description>测试</description>
+    </item>
+    
   </channel>
 </rss>
