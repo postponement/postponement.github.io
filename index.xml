@@ -8,68 +8,12 @@
     <language>zh-CN</language>
     <lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://postponement.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>测试用例</title>
-      <link>http://postponement.github.io/post/thred/</link>
+      <title>受够了第三方博客网站</title>
+      <link>http://postponement.github.io/post/%E7%AC%AC%E4%B8%80%E8%BF%81%E7%A7%BB%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://postponement.github.io/post/thred/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Example Post4</title>
-      <link>http://postponement.github.io/post/four/</link>
-      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://postponement.github.io/post/four/</guid>
-      <description>&lt;p&gt;关于Istio的更多内容请参考&lt;a href=&#34;http://istio.doczh.cn/&#34;&gt;istio中文文档&lt;/a&gt;。&lt;/p&gt;
-&lt;p&gt;原文参见&lt;a href=&#34;https://istio.io/docs/tasks/traffic-management/traffic-shifting.html&#34;&gt;Traffic Shifting&lt;/a&gt;。&lt;/p&gt;
-&lt;p&gt;本任务将演示如何将应用流量逐渐从旧版本的服务迁移到新版本。通过Istio，可以使用一系列不同权重的规则（10%，20%，··· 100%）将流量平缓地从旧版本服务迁移到新版本服务。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Clean White Theme for Hugo</title>
-      <link>http://postponement.github.io/post/readme/</link>
-      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://postponement.github.io/post/readme/</guid>
-      <description>Clean White Theme for Hugo CleanWhite is a clean, elegant, but fully functional blog theme for Hugo. Here is a live demo site using this theme. It is based on huxblog Jekyll Theme and Clean Blog Jekyll Theme. These two upstream projects have done awesome jobs to create a blog theme, what I&amp;rsquo;m doing here is porting it to Hugo, of which I like the simplicity and the much faster</description>
-    </item>
-    
-    <item>
-      <title>An Example Post</title>
-      <link>http://postponement.github.io/post/first/</link>
-      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://postponement.github.io/post/first/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Example Post</title>
-      <link>http://postponement.github.io/post/second/</link>
-      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://postponement.github.io/post/second/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Example Post55</title>
-      <link>http://postponement.github.io/post/five/</link>
-      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://postponement.github.io/post/five/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Example Post66</title>
-      <link>http://postponement.github.io/post/six/</link>
-      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://postponement.github.io/post/six/</guid>
-      <description>测试</description>
+      <guid>http://postponement.github.io/post/%E7%AC%AC%E4%B8%80%E8%BF%81%E7%A7%BB%E5%8D%9A%E5%AE%A2/</guid>
+      <description>记录 新建博客,第一篇权作纪念. #感谢 感谢模板作者 zhaohuabing</description>
     </item>
     
     <item>
@@ -87,16 +31,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://postponement.github.io/top/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://postponement.github.io/top/books/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://postponement.github.io/top/books/</guid>
-      <description>Machine learning学习笔记 Coursera 在线课程 Machine learning 笔记讲师: 吴恩达(Andrew Ng) 课程地址：https://www.coursera.org/lear</description>
+      <description>擅长iOS swift开发 了解RAC runtime GCD LLVM等底层结构 擅长利用设计模式重构代码 了解音视频 擅长组件化项目重构 了解Python shell脚本开</description>
     </item>
     
   </channel>
